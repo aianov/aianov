@@ -16,12 +16,18 @@
 <li>📫 How to reach me: ayanovdulat@gmail.com</li>
 </ul>
 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react-native/react-native-original-wordmark.svg" title="React Native" alt="React Native" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+<br>
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%231778C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![WebSocket](https://img.shields.io/badge/WebSocket-%23007ACC.svg?style=for-the-badge&logo=websocket)
+![gRPC](https://img.shields.io/badge/gRPC-%2300AFF0.svg?style=for-the-badge&logo=grpc&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-%23FF4500.svg?style=for-the-badge&logo=nats&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23E64A19.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23007ACC.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-%23000000.svg?style=for-the-badge&logo=hetzner&logoColor=white)
+![S3 (Hetzner/compatible)](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
