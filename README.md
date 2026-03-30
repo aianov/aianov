@@ -9,15 +9,23 @@
 <br>
 
 <div>
-<h3>About Me :</h3>
+<h3>About Me:</h3>
 <ul>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 Fullstack Engineer</li>
-<li>📫 How to reach me: ayanovdulat@gmail.com</li>
-  <br>
-<li>Backend: Rust, Actix, Tokio</li>
-<li>Frontend/Mobile: React, RN</li>
 </ul>
+
+<h3>Stack:</h3>
+<ul>
+<li>Backend: Rust, Actix, Tokio, Nats, Kafka, Redis, Postgres, Kubernetes</li>
+<li>Frontend/Mobile: Typescript, React, React Native, Mobx</li>
+<ul>
+
+<h3>Contacts:</h3>
+<ul>
+<li>Mail: ayanovdulat@gmail.com</li>
+<li>Telegram: @nics51</li>
+<ul>
 
 <br>
 
