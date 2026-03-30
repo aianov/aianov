@@ -15,15 +15,11 @@
 <li>💻 Fullstack Engineer</li>
 </ul>
 
-<br>
-
 <h3>Stack:</h3>
 <ul>
 <li>Backend: Rust, Actix, Tokio, Nats, Kafka, Redis, Postgres, Kubernetes</li>
 <li>Frontend/Mobile: Typescript, React, React Native, Mobx</li>
 </ul>
-
-<br>
 
 <h3>Contacts:</h3>
 <ul>
