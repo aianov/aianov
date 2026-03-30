@@ -14,7 +14,7 @@
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 Fullstack Engineer</li>
 <li>📫 How to reach me: ayanovdulat@gmail.com</li>
-<li></li>
+  <br>
 <li>Backend: Rust, Actix, Tokio</li>
 <li>Frontend/Mobile: React, RN</li>
 </ul>
