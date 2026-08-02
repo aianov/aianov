@@ -25,9 +25,9 @@
 <li>Telegram: @nics51</li>
 </ul>
 
-<br>
-
 ![aianov](https://github-readme-stats-eight-theta.vercel.app/api?username=aianov&show_icons=true&theme=nightowl&count_private=true)
+
+<br>
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231778C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
