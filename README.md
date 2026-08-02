@@ -6,8 +6,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Software+Engineer;Self-taught;Computer+Science;Active+Learner/Researcher;Love+to+learn+new+stuffs"></a>
 </p>
 
-![aianov](https://github-readme-stats-eight-theta.vercel.app/api?username=aianov&show_icons=true&theme=nightowl&count_private=true)
-
 <div>
 <h3>About Me:</h3>
 <ul>
@@ -28,6 +26,8 @@
 </ul>
 
 <br>
+
+![aianov](https://github-readme-stats-eight-theta.vercel.app/api?username=aianov&show_icons=true&theme=nightowl&count_private=true)
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231778C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
