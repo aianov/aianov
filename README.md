@@ -8,8 +8,6 @@
 
 ![aianov](https://github-readme-stats-eight-theta.vercel.app/api?username=aianov&show_icons=true&theme=nightowl&count_private=true)
 
-<br>
-
 <div>
 <h3>About Me:</h3>
 <ul>
