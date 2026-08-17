@@ -35,7 +35,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231778C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![WebSocket](https://img.shields.io/badge/WebSocket-%23007ACC.svg?style=for-the-badge&logo=websocket)
+![Microservices](https://img.shields.io/badge/WebSocket-%23007ACC.svg?style=for-the-badge&logo=websocket)
 ![gRPC](https://img.shields.io/badge/gRPC-%2300AFF0.svg?style=for-the-badge&logo=grpc&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-%23FF4500.svg?style=for-the-badge&logo=nats&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23E64A19.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
