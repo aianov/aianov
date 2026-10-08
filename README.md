@@ -16,7 +16,7 @@
 <h3>Stack:</h3>
 <ul>
 <li>Backend: Rust, Actix, Tokio, Nats, Kafka, Redis, Postgres, Kubernetes</li>
-<li>Frontend/Mobile: Typescript, React, React Native, Mobx</li>
+<li>Frontend/Mobile: Swift, Kotlin, Typescript, React, React Native, Mobx</li>
 </ul>
 
 <h3>Contacts:</h3>
@@ -33,6 +33,8 @@
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231778C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Microservices](https://img.shields.io/badge/WebSocket-%23007ACC.svg?style=for-the-badge&logo=websocket)
