@@ -3,12 +3,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Engineer;Rust+++Swift+++Kotlin+++Typescript;4+years+of+experience;Active+Learner;Love+to+code;"></a>
-</p>
-
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=aianov&theme=tokyonight&showIcons=true">
-    <img alt="Aianov's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aianov&theme=tokyonight" />
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/aianov?cardType=level&theme=tokyonight">
+    <img  alt="Aianov's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aianov?cardType=github&theme=tokyonight" />
   </a>
 </p>
 
