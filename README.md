@@ -3,8 +3,8 @@
 <br>
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/aianov?cardType=level&theme=tokyonight">
-    <img  alt="Aianov's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aianov?cardType=github&theme=tokyonight" />
+  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
+    <img width="400px" alt="Aianov's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aianov?theme=tokyonight" />  
   </a>
 </p>
 
