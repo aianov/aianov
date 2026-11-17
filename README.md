@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=aianov&theme=tokyonight&showIcons=true">
-    <img alt="Aianov's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aianov" />
+    <img alt="Aianov's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aianov&theme=tokyonight" />
   </a>
 </p>
 
